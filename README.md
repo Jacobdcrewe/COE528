@@ -9,4 +9,4 @@ Lab 3 - a program that queues and dequeues strings in a FIFO order.
 
 Lab 4 - two programs. One that creates/tests for a text file and writes to it and outputs the values to the console. One that outputs the total cost and categories of each food item.
 
-Final Project - A bookstore system. Signing in as admin (user:admin, password:admin) allows you to manage books and users. Signing in as a user allows you to "buy" a book in the software.
+Final Project - A bookstore system done as a group project. Signing in as admin (user:admin, password:admin) allows you to manage books and users. Signing in as a user allows you to "buy" a book in the software.
