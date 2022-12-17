@@ -1,5 +1,5 @@
 # COE528
-The content of this directory are my projects done in NetBeans from the Object Oriented Analysis and Design course offered at Toronto Metropolitan University.
+The content of this directory are my projects done in NetBeans from the Object Oriented Analysis and Design course offered at Toronto Metropolitan University. The content is my homework so please do not copy but feel free to use it as a reference.
 
 Lab 1 - a flight management software using the console
 
